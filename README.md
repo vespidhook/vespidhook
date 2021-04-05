@@ -1,8 +1,5 @@
 ### Olá, meu nome é Bruno
 
-**Um pouco sobre mim**
-...
-
 ### Tecnologias 
 <br />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -18,13 +15,4 @@
 <br />
 
 
-### Minhas Atividades 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vespidhook&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=vespidhook&theme=radical&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
 
