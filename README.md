@@ -7,13 +7,8 @@
 <p align="left" color="#C2A8F3">
      &nbsp Olá, sou Bruno desenvolvedor full stack, atualmente estou aberto a oportunidades. Amo tecnologia e descobri na programação a minha paixão. Além de programar, gosto de musica e nas horas vagas curto minha guitarra ou meu violão!
 </p>
-<br>
-<br>
-<br>
-
 
 <h3 style="color:#C2A8F3"> 🧰 Caixa de ferramentas:  </h3>
-
  
 <div style="height: 80px; width: 100px; background: #fff; border-radius: 19px; box-shadow: 8px 8px; display: flex; justify-content: center; align-items: center;">
 <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -29,8 +24,6 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <h3 style="color:#C2A8F3"> 📝 Algumas estatísticas do Github: </h3>
 
@@ -39,10 +32,6 @@
 ![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px>
 
 </div>
-<br>
-<br>
-<br>
-
 
 <h3 style="color:#C2A8F3"> 🤙 Conecte-se comigo:  </h3>
 
