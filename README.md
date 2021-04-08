@@ -24,6 +24,7 @@
 </div>
 
 <br>
+<br>
 
 <h3 style="color:#C2A8F3"> 📝 Algumas estatísticas do Github: </h3>
 
