@@ -24,16 +24,20 @@
 </div>
 
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+   
+
+</div>
 
 <br>
 
-<h3 style="color:#C2A8F3"> 📝 Algumas estatísticas do Github: </h3>
+<h3 style="color:#C2A8F3"> 📝 Algumas estatísticas: </h3>
 
 <div>
 
 ![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px>
-
+<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <h3 style="color:#C2A8F3"> 🤙 Conecte-se comigo:  </h3>
