@@ -28,7 +28,7 @@
 
 <h3 style="color:#C2A8F3"> 📝 Algumas estatísticas do Github: </h3>
 
-<div align="center">
+<div>
 
 ![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px>
 
