@@ -9,7 +9,7 @@
 </p>
 
 <h3 style="color:#C2A8F3"> 🧰 Caixa de ferramentas:  </h3>
-⚠️ under construction ⚠️ 
+
  
 <div style="height: 80px; width: 100px; background: #fff; border-radius: 19px; box-shadow: 8px 8px; display: flex; justify-content: center; align-items: center;">
 <img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -23,6 +23,8 @@
 <img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 </div>
+
+<p>
 
 <h3 style="color:#C2A8F3"> 📝 Algumas estatísticas do Github: </h3>
 
