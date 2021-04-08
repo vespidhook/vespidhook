@@ -24,6 +24,8 @@
 </div>
 
 <br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vespidhook)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 <h3 style="color:#C2A8F3"> 📝 Algumas estatísticas do Github: </h3>
