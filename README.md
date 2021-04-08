@@ -24,9 +24,7 @@
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 </div>
 
-<div>
-   <p>
-</div>
+<br>
 
 <h3 style="color:#C2A8F3"> 📝 Algumas estatísticas do Github: </h3>
 
