@@ -34,8 +34,7 @@
 <h3 style="color:#C2A8F3"> 📝 Algumas estatísticas: </h3>
 
 <div>
-[![Visits Badge](https://badges.pufler.dev/visits/vespidhook/vespidhook?style=for-the-badge)](https://github.com/vespidhook/vespidhook)
-![Repos Badge](https://badges.pufler.dev/repos/vespidhook?style=for-the-badge)
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
 </p> 
