@@ -35,7 +35,9 @@
 
 <div>
 
-![Bruno's github stats](https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
+</p> 
 <br>
 [![Bruno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vespidhook)](https://github.com/anuraghazra/github-readme-stats)
 </div>
