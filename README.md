@@ -43,6 +43,6 @@
 <h3 style="color:#C2A8F3"> 🤙 Conecte-se comigo:  </h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brunoalvesilva/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brunoalves_s@outlook.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:vespidhook@gmail.com)
 
 </div>
