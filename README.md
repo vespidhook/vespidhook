@@ -5,7 +5,7 @@
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=180px>
 </div> -->
 <p align="left" color="#C2A8F3">
-     &nbsp Olá, sou Bruno desenvolvedor full stack, atualmente estou aberto a oportunidades. Amo tecnologia e descobri na programação a minha paixão. Além de programar, gosto de musica e nas horas vagas curto minha guitarra ou meu violão!
+Olá, sou Bruno desenvolvedor full stack, atualmente estou aberto a oportunidades. Amo tecnologia e descobri na programação a minha paixão. Além de programar, gosto de musica e nas horas vagas curto minha guitarra ou meu violão!
 </p>
 
 <h3 style="color:#C2A8F3"> 🧰 Caixa de ferramentas:  </h3>
