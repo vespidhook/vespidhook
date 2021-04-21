@@ -38,9 +38,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
 </p> 
-<br>
-[![Bruno's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vespidhook)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <h3 style="color:#C2A8F3"> 🤙 Conecte-se comigo:  </h3>
 
