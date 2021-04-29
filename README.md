@@ -36,10 +36,10 @@ Olá, sou Bruno desenvolvedor full stack, atualmente estou aberto a oportunidade
 <div>
 
 <p align = "center">
-   <div>
+   <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![vespidhook's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vespidhook)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </p>
 
