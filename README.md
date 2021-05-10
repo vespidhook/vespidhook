@@ -38,7 +38,6 @@ Olá, sou Bruno desenvolvedor full stack, atualmente estou aberto a oportunidade
 <p align = "center">
    <div align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
-Ultimos 7 Dias 
 [![vespidhook's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vespidhook)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </p>
