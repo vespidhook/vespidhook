@@ -57,5 +57,5 @@
 
 <br>
 <div align="center">
-<footer align='center'><a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>Bruno Alves</a> </footer>
+<footer align='center'><a href='https://bas.inf.br'>Bruno Alves</a> </footer>
 </div>
