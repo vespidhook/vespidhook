@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="" src="https://i.pinimg.com/564x/e7/ee/48/e7ee48ff9fbcbadac23ad0f7893d64a6.jpg" />
 
 
-- 🔭 I’m currently working on I'm currently at Fiocruz working as a PHP developer
+- 🔭 I’m currently at Fiocruz working as a PHP developer
 
 
 - 🌱 I’m currently learning Seeking proficiency in PHP and Javascript / React 
