@@ -18,8 +18,7 @@
 
 - 🔭 I’m currently at Fiocruz working as a PHP developer
 
-
-- 🌱 I’m currently learning Seeking proficiency in PHP and Javascript / React 
+- 🌱 I’m currently learning proficiency in PHP and Javascript / React 
 
 - 👯 I’m looking to collaborate on  
 
