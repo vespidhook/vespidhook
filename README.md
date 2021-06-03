@@ -1,8 +1,6 @@
 
 
 <div align="center">
-<img width="100" height = "100" src="https://bas.inf.br/img/profile.jpg" alt="cover" />
-
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
