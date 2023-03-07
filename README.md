@@ -1,4 +1,7 @@
-## Olá! Eu sou o Bruno 🖐️
+# Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Bruno, sou programador
+
+![](https://komarev.com/ghpvc/?username=vespidhook)
+[![wakatime](https://wakatime.com/badge/user/67877554-cafb-4473-baee-a235df98322d.svg)](https://wakatime.com/@67877554-cafb-4473-baee-a235df98322d)
 
 [![Blog](https://img.shields.io/website?label=Bas.inf.br&style=for-the-badge&url=https://bas.inf.br/)](https://bas.inf.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoalvesilva/)
@@ -7,11 +10,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno_alvessilva)
 
 <div style="display: inline_block">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vespidhook&layout=compact&theme=algolia"/>
-</div>
-<div style="display: inline_block">
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=vespidhook&theme=algolia" alt="#vespidhook" />
+  <img width="31%" src="https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vespidhook&layout=compact&theme=algolia"/>
+
+  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=vespidhook&theme=algolia" alt="#vespidhook" />
 </div>
 
 ## Tecnologias que eu uso no meu dia
@@ -25,6 +27,3 @@
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
-### Visitas ao perfil
-<img src='https://profile-counter.glitch.me/vespidhook/count.svg' width='auto'>
