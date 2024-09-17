@@ -16,6 +16,10 @@
   <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=vespidhook&theme=algolia" alt="#vespidhook" />
 </div>
 
+<div>
+  <figure><embed src="https://wakatime.com/share/@vespidhook/adf93b57-3df1-4f01-b37c-a7319b9d3e8e.svg"></embed></figure>
+</div>
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
