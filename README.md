@@ -12,13 +12,10 @@
 <div style="display: inline_block">
   <img width="31%" src="https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
   <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vespidhook&layout=compact&theme=algolia"/>
-
-  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=vespidhook&theme=algolia" alt="#vespidhook" />
 </div>
 
-<div>
-  <figure><embed src="https://wakatime.com/share/@vespidhook/adf93b57-3df1-4f01-b37c-a7319b9d3e8e.svg"></embed></figure>
-</div>
+## Coding Activity
+<img src="https://wakatime.com/share/@vespidhook/1b4113a5-aa7b-4653-bf3d-3efe60a1653e.svg">
 
 ## Tecnologias que eu uso no meu dia
 
