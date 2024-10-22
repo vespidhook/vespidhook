@@ -14,7 +14,7 @@
   <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vespidhook&layout=compact&theme=algolia"/>
 </div>
 
-## Horas por dias
+## Horas por dia
 <img src="https://wakatime.com/share/@vespidhook/1b4113a5-aa7b-4653-bf3d-3efe60a1653e.svg">
 
 ## Tecnologias que eu uso no meu dia
