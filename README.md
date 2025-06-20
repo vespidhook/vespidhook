@@ -18,7 +18,6 @@ Sou movido por desafios e interessado por arquitetura de software, boas prática
 ### 🌍 Me encontre por aí:
 
 [![Blog](https://img.shields.io/website?label=brunoalves.dev.br&style=for-the-badge&url=https://brunoalves.dev.br/)](https://brunoalves.dev.br)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-brunoalves.app-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://brunoalves.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoalvesilva/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vespidhook/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bruno_alvessilva)
