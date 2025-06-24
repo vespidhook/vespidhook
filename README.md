@@ -1,5 +1,3 @@
-# 👨‍💻 Bruno Alves | Fullstack Laravel · React · Angular · Docker · Proxmox · Java (estudando)
-
 <img src="https://brunoalves.dev.br/assets/img/readme-banner.png.png" alt="Banner Bruno Alves" style="width:100%; border-radius:10px;" />
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Seja bem-vindo ao meu perfil!
