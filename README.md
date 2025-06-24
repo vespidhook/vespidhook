@@ -1,6 +1,6 @@
 <img src="https://brunoalves.dev.br/assets/img/readme-banner.png.png" alt="Banner Bruno Alves" style="width:100%; border-radius:10px;" />
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Seja bem-vindo ao meu perfil!
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Seja bem-vindo!
 
 Sou desenvolvedor fullstack do **Rio de Janeiro**, formado pela **Unisuam**, apaixonado por transformar ideias em aplicações web e mobile. Tenho experiência prática com **Laravel**, **React**, **React Native (Expo)**, **Angular**, **Docker**, **SQL** e **Proxmox**. Também atuo com **deploy automatizado via GitHub Actions**, **armazenamento em S3**, e **infraestrutura com PHP-FPM + Nginx**.
 
