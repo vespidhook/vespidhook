@@ -62,8 +62,12 @@ Sou movido por desafios e interessado por arquitetura de software, boas prática
 ### 📊 Estatísticas GitHub
 
 <div style="display: inline_block">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27">
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vespidhook&layout=compact&theme=algolia"/>
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vespidhook&layout=compact&theme=algolia"/>
+  <img width=99% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vespidhook&theme=algolia">
+ <img width=49% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vespidhook&theme=algolia&exclude=HTML"> 
+ <img width=49% src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vespidhook&theme=algolia"> 
+  <img width=98% src="https://streak-stats.demolab.com?user=vespidhook&theme=algolia&hide_border=true">
 </div>
 
 ---
